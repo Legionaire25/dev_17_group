@@ -1,0 +1,64 @@
+# def nothing():
+#     pass
+#
+# print(nothing()) # None
+
+# string = 'python'
+# string[0] = '3'
+# print(string) # Error
+
+# nums = 0, 1, 2, 3
+# print(sorted(nums) == nums) #false
+
+# x = [1]
+# for i in x:
+#     print(1)
+#     x.append(i)
+
+# x = 123_456.0
+# print(x) #123456
+
+# x = '20_24'
+# print(int(x))
+#
+# print(type(type))
+# print(False + True)#1
+
+# r = range(2)
+# next(r)
+# next(r)
+# print(next(r))# Error
+
+# s = {1, 2}
+# s.update({1, 3})
+# print(sorted(s)) #[1,2,3]
+
+# s ={range(3)}
+# print(s)
+
+# for i in range(4.0):
+#     print(i)# error
+
+# x = (1, 3.14)
+# print(isinstance(x, (int, float))) # false
+
+# x = {'ab', 'cd'}
+# for i in x :
+#     i.upper()
+# print(x)
+
+#print(0 / -1) #-0.0
+
+# Привет_мир = "Привет мир"
+# print(Привет_мир)
+
+# a = set('word')
+# a = a.add('new')
+# print(a) #none
+
+# def boolean(a, b, true, false):
+#     if a == false and b == true:
+#         print('True')
+#     else:
+#         print('False')
+# boolean(0, 1, True, False)#True
